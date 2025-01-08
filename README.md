@@ -29,7 +29,7 @@ Please make sure to update tests as appropriate
 ## License 
 Click on the link to get more information: https://opensource.org/licenses/MIT 
 ## Questions 
-Github page: https://github.com/oscarisaacoh1119 
+Github page: https://github.com/oscaroh1119 
 
 Email me at: oscarisaacoh@gmail.com for any additional questions.
 ## Video
